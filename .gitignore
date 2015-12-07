@@ -1,0 +1,9 @@
+.idea/*
+caching/*
+caching/**/*
+caching/**/**/*
+media/*
+*.pyc
+*.log
+.DS_Store
+workspace.xml
